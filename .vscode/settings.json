@@ -1,0 +1,6 @@
+{
+    "editor.insertSpaces": false,
+    "files.associations": {
+        "fmm.h": "c"
+    }
+}
